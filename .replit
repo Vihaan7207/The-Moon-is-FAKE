@@ -1,0 +1,4 @@
+run = "cd website && npm run dev"
+
+[nix]
+channel = "stable-21_11"
